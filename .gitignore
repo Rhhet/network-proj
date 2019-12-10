@@ -1,0 +1,9 @@
+# won't be staged:
+# object files created when using 'test_topoX' makefile targets
+exe/*
+
+# VSCode workspace settings folder
+.vscode/
+
+# log files
+log/
