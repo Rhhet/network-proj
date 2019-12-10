@@ -86,6 +86,6 @@ This is more likely to be caused by the `sendto` primitive that may send a `SIGP
 
 - Sometimes routes takes 2 broadcast periods (~20 secs) to update. This won't cause any issue however.
 
-- The traceroute tests often display the same times (~0.001s) for each hop. Not sure id intended.
+- The traceroute tests often display the same times (~0.001s) for each hop. Not sure if intended.
 
 ##### -- Grandpierre Teri --
